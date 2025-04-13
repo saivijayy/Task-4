@@ -26,7 +26,7 @@ Build a version-controlled DevOps project using Git best practices. This task in
 
 5. Follow any additional setup instructions specific to the project (e.g., setting up environments, dependencies).
 
-Branches and Workflow
+## Branches and Workflow
 main: The main production branch.
 
 dev: The development branch where features are merged.
@@ -35,17 +35,17 @@ feature/initial-setup: A feature branch for the initial setup and configuration.
 
 Use Pull Requests (PRs) to merge changes between these branches.
 
-How to Contribute
+## How to Contribute
 Fork the repository.
 
 Create a feature branch from dev for your changes.
 
 Open a pull request to merge your changes back into the dev branch.
 
-Links
+## Links
 GitHub Repository: https://github.com/saivijayy/Task4
 
-Version Tag
+## Version Tag
 v1.0: Initial release of the project.
 ```
 ### How to Use This:
